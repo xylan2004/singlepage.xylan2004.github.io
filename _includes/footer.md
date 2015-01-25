@@ -1,8 +1,7 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Xylan2004&mdash;
+Based on [SinglePaged theme](https://github.com/t413/SinglePaged)
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
+The Site is [Open Source]({{ site.source_link }})
 
